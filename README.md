@@ -1,1 +1,1 @@
-# csc2541_lab1
+# CSC2541 - Lab 1: Deep Learning for structure-based drug design 
